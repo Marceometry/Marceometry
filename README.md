@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord)
-
+![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=marceometry)
 <!--
 Here are some ideas to get you started:
 
