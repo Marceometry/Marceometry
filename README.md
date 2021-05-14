@@ -1,5 +1,4 @@
 ### Hi 👋 Welcome to my profile!
-<hr>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord" />
@@ -8,25 +7,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&layout=compact&theme=nord" />
 </a>
 
-<br>
+<hr>
 - I'm currently open to work ⚡
+<hr>
 
 ### Technologies I've had contact with
-<hr>
 <ul>
   <li>React JS</li>
   <li>Next.js</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Sass</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Figma</li>
+  <li>Node.js</li>
+  <li>MongoDB</li>
+  <li>SQL</li>
 </ul>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
