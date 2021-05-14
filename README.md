@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 32px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
