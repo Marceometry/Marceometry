@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&layout=compact&theme=nord" />
 </a>
 
-### I'm currently open to work ⚡
+- I'm currently open to work ⚡
 
 ### Technologies I've had contact with
 
