@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<div style="display: flex; align-items: center;">
 ![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord)
 ![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&layout=compact&theme=nord)
-</div>
-
+  
 <!--
 Here are some ideas to get you started:
 
