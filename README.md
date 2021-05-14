@@ -1,11 +1,20 @@
-### Hi there 👋
+### Hi 👋 Welcome to my profile!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs,issues&show_icons=true&theme=nord" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&layout=compact&theme=nord" />
 </a>
+
+### I'm currently open to work ⚡
+
+### Technologies I've had contact with
+
+<ul>
+  <li>React JS</li>
+  <li>Next.js</li>
+</ul>
 
 <!--
 Here are some ideas to get you started:
