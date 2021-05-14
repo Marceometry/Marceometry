@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceometry)
+![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marceometry&hide=contribs,prs)
 
 <!--
 Here are some ideas to get you started:
