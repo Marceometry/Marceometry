@@ -13,13 +13,13 @@
 
 ### Technologies I've had contact with
 <ul>
-  <li>React JS</li>
-  <li>Next.js</li>
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
   <li>JavaScript</li>
-  <li>TypeScript</li>
+- [TypeScript](https://www.typescriptlang.org/)
   <li>HTML</li>
   <li>CSS</li>
-  <li>Sass</li>
+- [Sass](https://sass-lang.com/)
   <li>Figma</li>
   <li>Node.js</li>
   <li>MongoDB</li>
