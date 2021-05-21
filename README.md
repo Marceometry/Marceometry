@@ -12,7 +12,7 @@
 <hr>
 
 ### Technologies I've had contact with
-<ul>
+
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
   <li>JavaScript</li>
@@ -24,4 +24,3 @@
   <li>Node.js</li>
   <li>MongoDB</li>
   <li>SQL</li>
-</ul>
