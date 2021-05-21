@@ -15,12 +15,12 @@
 
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
-  <li>JavaScript</li>
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
-  <li>HTML</li>
-  <li>CSS</li>
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Sass](https://sass-lang.com/)
-  <li>Figma</li>
-  <li>Node.js</li>
-  <li>MongoDB</li>
-  <li>SQL</li>
+- [Figma](https://figma.com/)
+- [Node.js](https://nodejs.org/en/)
+- [MongoDB](https://www.mongodb.com/1)
+- [SQL](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html)
