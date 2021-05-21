@@ -15,11 +15,11 @@
 <ul>
   <li>React JS</li>
   <li>Next.js</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Sass</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
   <li>Figma</li>
   <li>Node.js</li>
   <li>MongoDB</li>
