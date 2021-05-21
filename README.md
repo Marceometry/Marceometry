@@ -8,7 +8,10 @@
 </a>
 
 <hr>
+
+- [Linkedin](https://www.linkedin.com/in/marcelino-teixeira-796907212/)
 - I'm currently open to work ⚡
+
 <hr>
 
 ### Technologies I've had contact with
