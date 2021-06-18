@@ -27,3 +27,4 @@
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/1)
 - [SQL](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html)
+- [PHP](https://www.php.net/)
