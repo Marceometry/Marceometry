@@ -23,6 +23,7 @@
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Sass](https://sass-lang.com/)
+- [CSS-in-JS (Styled-Components)](https://styled-components.com/)
 - [Figma](https://figma.com/)
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/1)
