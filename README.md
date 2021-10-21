@@ -16,6 +16,7 @@
 
 ### Technologies I've had contact with
 
-- [ReactJS](https://reactjs.org) | [Next.js](https://nextjs.org/) | [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/) | [Redux](https://redux.js.org/)
+- [ReactJS](https://reactjs.org) | [Next.js](https://nextjs.org/) | [React Native](https://reactnative.dev/) | [Redux](https://redux.js.org/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [Figma](https://figma.com/)
-- [Node.js](https://nodejs.org/en/) | [MongoDB](https://www.mongodb.com/1) | [SQL](https://www.oracle.com/br/database/technologies/appdev/sqldeveloper-landing.html) | [PHP](https://www.php.net/)
+- [Node.js](https://nodejs.org/en/) | [MongoDB](https://www.mongodb.com/1)
