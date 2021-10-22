@@ -1,12 +1,12 @@
 ### Hi 👋 Welcome to my profile!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=issues&show_icons=true&theme=nord" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=6&hide=handlebars&layout=compact&theme=nord" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=issues&show_icons=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=6&hide=handlebars&layout=compact&theme=nord" />
+  </a>
+</p>
+  
 <hr>
 
 - [Linkedin](https://www.linkedin.com/in/marcelino-teixeira-796907212/)
