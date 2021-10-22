@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=issues&show_icons=true&theme=nord" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=6&hide=handlebars&layout=compact&theme=nord" />
+    <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=issues&show_icons=true&theme=nord" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=6&hide=handlebars&layout=compact&theme=nord" />
   </a>
 </p>
   
