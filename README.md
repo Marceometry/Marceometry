@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="55%" align="center" src="https://github-readme-stats.vercel.app/api?username=marceometry&hide=issues&show_icons=true&theme=nord" />
-    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=6&hide=handlebars&layout=compact&theme=nord" />
+    <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marceometry&langs_count=5&layout=compact&theme=nord" />
   </a>
 </p>
   
@@ -18,5 +18,5 @@
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Next.js](https://nextjs.org/)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [Figma](https://figma.com/)
-- [Node.js](https://nodejs.org/en/) | [MongoDB](https://www.mongodb.com/1)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [TailwindCSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/en/) | [Express](https://expressjs.com/pt-br/) | [GraphQL](https://graphql.org/)
