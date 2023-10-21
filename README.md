@@ -14,9 +14,9 @@
 
 <hr>
 
-### Technologies I've had contact with
+### Technologies I've worked with
 
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Next.js](https://nextjs.org/)
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) | [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [TailwindCSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/en/) | [Express](https://expressjs.com/pt-br/) | [GraphQL](https://graphql.org/)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [TailwindCSS](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/en/) | [NestJS]([https://expressjs.com/pt-br/](https://nestjs.com/)) | [GraphQL](https://graphql.org/)
