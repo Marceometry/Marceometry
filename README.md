@@ -19,4 +19,4 @@
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) | [TypeScript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org) | [React Native](https://reactnative.dev/) | [Next.js](https://nextjs.org/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS) | [Sass](https://sass-lang.com/) | [Styled-Components](https://styled-components.com/) | [TailwindCSS](https://tailwindcss.com/)
-- [Node.js](https://nodejs.org/en/) | [NestJS]([https://expressjs.com/pt-br/](https://nestjs.com/)) | [GraphQL](https://graphql.org/)
+- [Node.js](https://nodejs.org/en/) | [NestJS](https://nestjs.com/) | [GraphQL](https://graphql.org/)
